@@ -1,48 +1,48 @@
-// let numberOfCupsOfCoffee = 2
+let numberOfCupsOfCoffee = 2
 
-// const fullName = 'Joe Myers'
+const fullName = 'Joe Myers'
 
-// console.log(`${numberOfCupsOfCoffee}, ${fullName}`)
+console.log(`${numberOfCupsOfCoffee}, ${fullName}`)
 
-// const person = {
-//   name: 'Joe Myers',
-//   luckyNumber: '6',
-//   favoriteMovies: [
-//     'The 5th Element',
-//     'Into the Mouth of Madness',
-//     "Miller's Crossing",
-//   ],
-// }
-// console.log(person)
+const person = {
+  name: 'Joe Myers',
+  luckyNumber: '6',
+  favoriteMovies: [
+    'The 5th Element',
+    'Into the Mouth of Madness',
+    "Miller's Crossing",
+  ],
+}
+console.log(person)
 
-// let userName = window.prompt("Hey, what's your name?")
+let userName = window.prompt("Hey, what's your name?")
 
-// console.log(`Hello, ${userName}`)
+console.log(`Hello, ${userName}`)
 
-// let userNumberOne = window.prompt('Give me a number!')
+let userNumberOne = window.prompt('Give me a number!')
 
-// let userNumberTwo = window.prompt('Gimme another one!')
+let userNumberTwo = window.prompt('Gimme another one!')
 
-// const firstOperand = parseFloat(userNumberOne)
+const firstOperand = parseFloat(userNumberOne)
 
-// const secondOperand = parseFloat(userNumberTwo)
+const secondOperand = parseFloat(userNumberTwo)
 
-// const sum = firstOperand + secondOperand
+const sum = firstOperand + secondOperand
 
-// console.log(
-//   `Your first number ${firstOperand} + your second number ${secondOperand} is ${sum}`
-// )
+console.log(
+  `Your first number ${firstOperand} + your second number ${secondOperand} is ${sum}`
+)
 
-// const difference = firstOperand - secondOperand
-// const product = firstOperand * secondOperand
-// const quotient = firstOperand / secondOperand
-// const remainder = firstOperand % secondOperand
+const difference = firstOperand - secondOperand
+const product = firstOperand * secondOperand
+const quotient = firstOperand / secondOperand
+const remainder = firstOperand % secondOperand
 
-// console.log(
-//   `The difference of ${firstOperand} and ${secondOperand} is ${difference}`,
-//   `The product of  ${firstOperand} and ${secondOperand} is ${product}`,
-//   `The quotient of ${firstOperand} and ${secondOperand} is ${quotient} with a remainder of ${remainder}`
-// )
+console.log(
+  `The difference of ${firstOperand} and ${secondOperand} is ${difference}`,
+  `The product of  ${firstOperand} and ${secondOperand} is ${product}`,
+  `The quotient of ${firstOperand} and ${secondOperand} is ${quotient} with a remainder of ${remainder}`
+)
 
 const numbers = [
   13682, 43960, 13227, 22518, 11906, 34895, 46433, 23652, 22101, 25174, 30534,
